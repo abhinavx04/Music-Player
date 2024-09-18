@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import Sidebar from './components/Sidebar';
+import Sidebar from './components/sidebar';
 import Player from './components/Player';
 import Display from './components/Display';
 import { PLayerContext } from './context/PlayerContext';
